@@ -1,0 +1,156 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* div {
+    border: 1px solid black;
+    width: 40%;
+    background-color:#2D82BA ;
+    padding: 30px;
+}
+
+
+label {
+    font-size: 20px;
+}
+
+input {
+    width: 90%;
+    padding: 12px;
+    margin: 10px 0px;
+}
+
+button {
+    width: 95%;
+    padding: 12px;
+    margin:20px 0px;
+    background-color: #C54134;
+    cursor: pointer;
+    color: white;
+}
+
+button:hover {
+    background-color: #920c00;
+    color: white;
+}
+
+img {
+    width: 575px;
+    height: 400px;
+} */
+
+input {
+    margin-bottom: 30px;
+}
+
+.div2 {
+    background-color: #F7F7F7;
+    width: 50%;
+    padding: 20px;
+}
+
+.label1 {
+    margin-left: 80px;
+    font-size: 20px;
+}
+.label2 {
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+
+
+.input1 {
+    margin-left: 30px;
+    padding: 5px 0px;
+    width: 163px;
+    background-color: #DFDFDF;
+}
+
+.input2 {
+    margin-left: 10px;
+    width: 162px;
+    padding: 5px 0px;
+    background-color: #DFDFDF;
+}
+
+
+
+.label4 {
+    font-size: 20px;
+    margin-top: 30px;
+    
+}
+
+.input3 {
+    width: 350px;
+    margin-right: 50px;
+    padding: 5px 0px;
+    background-color: #DFDFDF;
+}
+
+.input4 {
+    width: 350px;
+    margin-left: 25px;
+    padding: 5px 0px;
+    background-color: #DFDFDF;
+}
+
+select {
+    width: 358px;
+    margin-left: 12px;
+    padding: 5px 0px;
+    background-color: #DFDFDF;
+}
+
+button {
+    height: 30px;
+    width: 90px;
+    background-color: #F64956;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-left: 80px;
+}
+
+button:hover {
+    background-color: #fa1226;
+    color: white;
+}
+
+button:active {
+    background-color: green;
+}
+
+
+.h4 {
+    margin-left: 80px;
+}
+
+.label5 {
+    margin-left: 80px;
+}
+
+.input6 {
+    margin-left: 25px;
+    padding: 5px 0px;
+    width: 163px;
+    background-color: #DFDFDF;
+}
+
+
+.input7 {
+    margin-left: 15px;
+    width: 163px;
+    padding: 5px 0px;
+    background-color: #DFDFDF;
+}
+.class {
+    padding: 10px 152px;
+    background-color: rgb(78, 78, 78);
+    color: white;
+    display: inline-block;
+    border-radius: 4px;
+}
